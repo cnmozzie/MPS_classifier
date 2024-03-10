@@ -1,2 +1,3 @@
 # MPS_classifier
-"TensorNetwork for Machine Learning" for MNIST
+
+This code was fork and revised from an older version of [TensorNetwork](https://github.com/google/TensorNetwork).
